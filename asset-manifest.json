@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-wedding/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/cra-wedding/static/js/main.66e8d83b.chunk.js",
+    "main.js.map": "/cra-wedding/static/js/main.66e8d83b.chunk.js.map",
+    "runtime-main.js": "/cra-wedding/static/js/runtime-main.20124379.js",
+    "runtime-main.js.map": "/cra-wedding/static/js/runtime-main.20124379.js.map",
+    "static/js/2.38b4e539.chunk.js": "/cra-wedding/static/js/2.38b4e539.chunk.js",
+    "static/js/2.38b4e539.chunk.js.map": "/cra-wedding/static/js/2.38b4e539.chunk.js.map",
+    "index.html": "/cra-wedding/index.html",
+    "precache-manifest.328d51fb528702c8cee057eb9ae7e9b8.js": "/cra-wedding/precache-manifest.328d51fb528702c8cee057eb9ae7e9b8.js",
+    "service-worker.js": "/cra-wedding/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/cra-wedding/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.38b4e539.chunk.js.LICENSE": "/cra-wedding/static/js/2.38b4e539.chunk.js.LICENSE",
+    "static/media/logo.svg": "/cra-wedding/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20124379.js",
+    "static/js/2.38b4e539.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.66e8d83b.chunk.js"
+  ]
+}
