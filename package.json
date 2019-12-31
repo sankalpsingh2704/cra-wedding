@@ -2,6 +2,7 @@
   "name": "wedding",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sankalpsingh2704.github.io/cra-wedding/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -14,7 +15,15 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "clean": "gh-pages-clean"
+  },
+  "author": "sankalpn27@live.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   },
   "eslintConfig": {
     "extends": "react-app"
